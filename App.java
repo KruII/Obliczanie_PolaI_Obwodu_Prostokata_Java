@@ -20,7 +20,7 @@ public class App implements ActionListener {
     private static JLabel oprosto;
     public static void main(String[] args) throws Exception {
     JPanel panel = new JPanel();
-    JFrame frame = new JFrame("Aplikacja hakerska by Kacper");
+    JFrame frame = new JFrame("Obliczanie Prostokąta");
     frame.setSize(1000, 1000);
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	frame.setResizable(true);
